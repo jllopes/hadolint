@@ -2,7 +2,7 @@
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE NamedFieldPuns #-}
 
-module Main where
+module OldMain where
 
 import Control.Applicative
 import Control.Monad (filterM)
